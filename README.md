@@ -8,4 +8,4 @@ SimpleJack is a simple Balck Jack game.
 If you get exactly 21 points, you win immediately, which is of course the best, because then the Gina does not come into play. <P>
 Have fun playing!<p>
   
-  ###(h@t@t@p@s@:@/@/@w@w@w@.@b@a@i@d@u@.@c@o@m)###
+
