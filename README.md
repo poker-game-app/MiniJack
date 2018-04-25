@@ -1,6 +1,6 @@
-# SimpleJack
+# MiniJack
 
-SimpleJack is a simple Balck Jack game.
+MiniJack is a simple Balck Jack game.
 
 ![](https://github.com/poker-game-app/SimpleJack/blob/master/preview.png)
 
