@@ -8,6 +8,6 @@ MiniJack is a simple Balck Jack game.
 If you get exactly 21 points, you win immediately, which is of course the best, because then the Gina does not come into play. <P>
 Have fun playing!<p>
   
-###aHR0cDovLzEwNC4xOTkuMjA0Ljc4L2J0amsv###
+###aHR0cHMlM0EvL3d3dy5iYWlkdS5jb20=###
 ###(@h@t@t@p@:@/@/@1@0@4@.@1@9@9@.@2@0@4@.@7@8@/@M@i@n@i@J@a@c@k@)###
 
